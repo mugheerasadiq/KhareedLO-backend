@@ -20,7 +20,7 @@ env.config();
 //mongodb connection string
 mongoose
   .connect(
-    "mongodb+srv://owais:owaisdb@cluster0.enmcs.mongodb.net/auth?retryWrites=true&w=majority",
+    "PUT DB URL HERE",
     {
       useNewUrlParser: true,
       useUnifiedTopology: true,
